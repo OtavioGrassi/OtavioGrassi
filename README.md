@@ -53,6 +53,6 @@ Simulação de e-commerce com carrinho dinâmico e integração de API REST.
 
 ---
 
-[![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)  
+# ![snake gif](https://github.com/OtavioGrassi/OtavioGrassi/blob/output/github-contribution-grid-snake.gif)
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&text=Obrigado%20pela%20visita!&height=100&fontSize=30&section=footer&animation=blink&color=#384ca8)
