@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,python,c,git,github&perline=5)](https://skillicons.dev)  
 
 ## ⚡ Ferramentas e Outros  
-[![My Skills](https://skillicons.dev/icons?i=wordpress,trello,notion,vscode,linux&perline=5)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=wordpress,vscode,linux&perline=5)](https://skillicons.dev)  
 
 ---
 
