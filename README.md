@@ -41,7 +41,7 @@ Aplicação CRUD completa com criação, edição, busca, filtros e ordenação 
 ## 🚀 Skills principais  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,figma&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,typescript,java,nodejs,express,git,github,figma&theme=light&perline=9" />
   </a>
 </p>  
 
