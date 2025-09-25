@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Otávio Grassi 👨‍💻  
 
-- 🎯 Desenvolvedor focado em **Front-End** e em formação Full Stack  
-- 🔧 Experiência com **HTML, CSS, JavaScript ES6+, React.js, Node.js, APIs REST**  
+- 🎯 Desenvolvedor focado em **Front-End** e em formação **Full Stack**  
+- 🔧 Experiência com **HTML, CSS, JavaScript ES6+, React.js, Angular, TypeScript, Java, Node.js, APIs REST**  
 - 🛠️ Prático em construir soluções **responsivas, acessíveis e performáticas**  
 - 📚 Atualmente Pós-graduando em **Desenvolvimento Full Stack – PUC Minas**  
 - 🚀 Apaixonado por **tecnologia, inovação e aprendizado contínuo**  
@@ -9,17 +9,24 @@
 ---
 
 ## ⚡ Conhecimento no Front-End e Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma&perline=5)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,typescript,bootstrap,tailwind,figma&perline=5)](https://skillicons.dev)  
 
 ## ⚡ Conhecimento no Back-End e Integrações  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,python,c,git,github&perline=5)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,express,firebase,python,c,git,github&perline=5)](https://skillicons.dev)  
 
 ## ⚡ Ferramentas e Outros  
-[![My Skills](https://skillicons.dev/icons?i=wordpress,vscode,linux&perline=5)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=wordpress,vscode,intellij,linux&perline=5)](https://skillicons.dev)  
 
 ---
 
 ## 📌 Projetos em Destaque  
+
+🔹 [**Página de Login Full Stack com Autenticação**]( https://github.com/OtavioGrassi/login-page-fullstack-frontend)  
+Aplicação full stack com autenticação de usuários e controle de sessões.  
+**Stack:** 
+Front-end com Angular, TypeScript, SCSS e HTML.
+Back-end em Java com Spring Security, JWT e token Bearer.
+Testes de requisições com Postman, deploy funcional do front-end.  
 
 🔹 [**Dashboard Financeiro Binance**](https://github.com/OtavioGrassi/Dashboard-Binance-Api-React)  
 Aplicação full stack que consome a API da Binance em tempo real e exibe gráficos interativos com **ApexCharts**.  
@@ -28,10 +35,6 @@ Aplicação full stack que consome a API da Binance em tempo real e exibe gráfi
 🔹 [**To Do List com React**](https://github.com/OtavioGrassi/To-Do-List-em-React-JS)  
 Aplicação CRUD completa com criação, edição, busca, filtros e ordenação de tarefas.  
 **Stack:** React.js, JavaScript ES6+, CSS3  
-
-🔹 [**Landing Page E-commerce Supermercado**](https://github.com/OtavioGrassi/Teste-Front-Tgid)  
-Simulação de e-commerce com carrinho dinâmico e integração de API REST.  
-**Stack:** HTML, CSS, JavaScript, JSON Server  
 
 ---
 
